@@ -622,4 +622,4 @@ Data lakes provide an invaluable resource for the scientific research community 
 </p>
 </details>
 
-© 2024 Dudko Anatol. All rights reserved.
+© 2025 Dudko Anatol. All rights reserved.

@@ -1269,4 +1269,4 @@ Integrating BI with enterprise systems such as ERP, CRM, SCM, and HRM is essenti
 </p>
 </details>
 
-© 2024 Dudko Anatol. All rights reserved.
+© 2025 Dudko Anatol. All rights reserved.

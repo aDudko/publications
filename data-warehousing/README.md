@@ -13,5 +13,5 @@ Best practices are shared throughout to guide readers in managing data effective
 It is educational and actionable, making it a must-read for professionals seeking a competitive edge through effective data management.
 
 ## License
-This book is copyright © 2024 Dudko Anatol. All rights reserved. No parts of this book may be used or reproduced without
+This book is copyright © 2025 Dudko Anatol. All rights reserved. No parts of this book may be used or reproduced without
 the express permission of the author. For permissions, contact me at: anatoly_dudko@icloud.com.

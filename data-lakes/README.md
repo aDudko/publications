@@ -9,5 +9,5 @@ The book also tackles the challenges and best practices involved in implementing
 Whether you are a business leader looking to transform your organization's data strategy, or a researcher seeking innovative ways to manage and analyze vast datasets, this book offers the knowledge and strategies needed to succeed in the era of big data.
 
 ## License
-This book is copyright © 2024 Dudko Anatol. All rights reserved. No parts of this book may be used or reproduced withou
+This book is copyright © 2025 Dudko Anatol. All rights reserved. No parts of this book may be used or reproduced withou
 the express permission of the author. For permissions, contact me at: anatoly_dudko@icloud.com.
